@@ -1,7 +1,7 @@
 ---
-title: "CHRISTMAS QUIZ 2024"
+title: "CHRISTMAS QUIZ 2025"
 title-slide-attributes: 
-  data-background-image: img/title-background.png
+  data-background-image: img/backgrounds/title.png
 format:
   revealjs:
     navigation: grid
@@ -23,114 +23,114 @@ quiz <- read.csv("quiz.csv", quote = "\'")
 rounds <- read.csv("rounds.csv")
 ```
 
-# `r round_name(1)` {.round background-image="img/round-1-background.png"}
+# `r round_name(1)` {.round background-image="img/backgrounds/round-1.png"}
 
-# QUESTION 1 {.question background-image="img/question-background.png"}
+# QUESTION 1 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(1, 1)`
 
-# QUESTION 2 {.question background-image="img/question-background.png"}
+# QUESTION 2 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(1, 2)`
 
-# QUESTION 3 {.question background-image="img/question-background.png"}
+# QUESTION 3 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(1, 3)`
 
-# QUESTION 4 {.question background-image="img/question-background.png"}
+# QUESTION 4 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(1, 4)`
 
-# QUESTION 5 {.question background-image="img/question-background.png"}
+# QUESTION 5 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(1, 5)`
 
-# QUESTION 6 {.question background-image="img/question-background.png"}
+# QUESTION 6 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(1, 6)`
 
-# QUESTION 7 {.question background-image="img/question-background.png"}
+# QUESTION 7 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(1, 7)`
 
 
-# QUESTION 8 {.question background-image="img/question-background.png"}
+# QUESTION 8 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(1, 8)`
 
-# `r round_name(1)` - RECAP {.question .recap background-image="img/question-background.png"}
+# `r round_name(1)` - RECAP {.question .recap background-image="img/backgrounds/question.png"}
 
 `r recap_round(1)`
 
-# `r round_name(1)` {.round background-image="img/round-1-background.png"}
+# `r round_name(1)` {.round background-image="img/backgrounds/round-1.png"}
 
 ANSWERS
 
-# QUESTION 1 {.question background-image="img/question-background.png"}
+# QUESTION 1 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(1, 1)`
 
-## QUESTION 1 {.question background-image="img/question-background.png"}
+## QUESTION 1 {.question background-image="img/backgrounds/question.png"}
 
 `r print_answer(1 ,1)`
 
-# QUESTION 2 {.question background-image="img/question-background.png"}
+# QUESTION 2 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(1, 2)`
 
-## QUESTION 2 {.question background-image="img/question-background.png"}
+## QUESTION 2 {.question background-image="img/backgrounds/question.png"}
 
 `r print_answer(1, 2)`
 
-# QUESTION 3 {.question background-image="img/question-background.png"}
+# QUESTION 3 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(1, 3)`
 
-## QUESTION 3 {.question background-image="img/question-background.png"}
+## QUESTION 3 {.question background-image="img/backgrounds/question.png"}
 
 `r print_answer(1, 3)`
 
-# QUESTION 4 {.question background-image="img/question-background.png"}
+# QUESTION 4 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(1, 4)`
 
-## QUESTION 4 {.question background-image="img/question-background.png"}
+## QUESTION 4 {.question background-image="img/backgrounds/question.png"}
 
 `r print_answer(1, 4)`
 
-# QUESTION 5 {.question background-image="img/question-background.png"}
+# QUESTION 5 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(1, 5)`
 
-## QUESTION 5 {.question background-image="img/question-background.png"}
+## QUESTION 5 {.question background-image="img/backgrounds/question.png"}
 
 `r print_answer(1, 5)`
 
-# QUESTION 6 {.question background-image="img/question-background.png"}
+# QUESTION 6 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(1, 6)`
 
-## QUESTION 6 {.question background-image="img/question-background.png"}
+## QUESTION 6 {.question background-image="img/backgrounds/question.png"}
 
 `r print_answer(1, 6)`
 
-# QUESTION 7 {.question background-image="img/question-background.png"}
+# QUESTION 7 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(1, 7)`
 
-## QUESTION 7 {.question background-image="img/question-background.png"}
+## QUESTION 7 {.question background-image="img/backgrounds/question.png"}
 
 `r print_answer(1, 7)`
 
-# QUESTION 8 {.question background-image="img/question-background.png"}
+# QUESTION 8 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(1, 8)`
 
-## QUESTION 8 {.question background-image="img/question-background.png"}
+## QUESTION 8 {.question background-image="img/backgrounds/question.png"}
 
 `r print_answer(1, 8)`
 
-# SCORES {.scores background-image="img/scores-background.png"}
+# SCORES {.scores background-image="img/backgrounds/scores.png"}
 
 ```{r scores round 1}
 scores %>% 
@@ -140,41 +140,41 @@ scores %>%
     set_bold(1:nrow(.), 2)
 ```
 
-# `r round_name(2)` {.round background-image="img/round-2-background.png"}
+# `r round_name(2)` {.round background-image="img/backgrounds/round-2.png"}
 
-# QUESTION 1 {.question background-image="img/question-background.png"}
+# QUESTION 1 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(2, 1)`
 
-# QUESTION 2 {.question background-image="img/question-background.png"}
+# QUESTION 2 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(2, 2)`
 
-# QUESTION 3 {.question background-image="img/question-background.png"}
+# QUESTION 3 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(2, 3)`
 
-# QUESTION 4 {.question background-image="img/question-background.png"}
+# QUESTION 4 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(2, 4)`
 
-# QUESTION 5 {.question background-image="img/question-background.png"}
+# QUESTION 5 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(2, 5)`
 
-# QUESTION 6 {.question background-image="img/question-background.png"}
+# QUESTION 6 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(2, 6)`
 
-# QUESTION 7 {.question background-image="img/question-background.png"}
+# QUESTION 7 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(2, 7)`
 
-# QUESTION 8 {.question background-image="img/question-background.png"}
+# QUESTION 8 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(2, 8)`
 
-# `r round_name(2)` - RECAP {.question background-image="img/question-background.png"}
+# `r round_name(2)` - RECAP {.question background-image="img/backgrounds/question.png"}
 
 +---------------------------------------+---------------------------------------+---------------------------------------+---------------------------------------+
 | ![](img/picture_round/question_1.jpg) | ![](img/picture_round/question_2.jpg) | ![](img/picture_round/question_3.jpg) | ![](img/picture_round/question_4.jpg) |
@@ -182,75 +182,75 @@ scores %>%
 | ![](img/picture_round/question_5.jpg) | ![](img/picture_round/question_6.jpg) | ![](img/picture_round/question_7.jpg) | ![](img/picture_round/question_8.jpg) |
 +---------------------------------------+---------------------------------------+---------------------------------------+---------------------------------------+
 
-# `r round_name(2)` {.round background-image="img/round-2-background.png"}
+# `r round_name(2)` {.round background-image="img/backgrounds/round-2.png"}
 
 ANSWERS
 
-# QUESTION 1 {.question background-image="img/question-background.png"}
+# QUESTION 1 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(2, 1)`
 
-## QUESTION 1 {.question background-image="img/question-background.png"}
+## QUESTION 1 {.question background-image="img/backgrounds/question.png"}
 
 `r print_answer(2, 1)`
 
-# QUESTION 2 {.question background-image="img/question-background.png"}
+# QUESTION 2 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(2, 2)`
 
-## QUESTION 2 {.question background-image="img/question-background.png"}
+## QUESTION 2 {.question background-image="img/backgrounds/question.png"}
 
 `r print_answer(2, 2)`
 
-# QUESTION 3 {.question background-image="img/question-background.png"}
+# QUESTION 3 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(2, 3)`
 
-## QUESTION 3 {.question background-image="img/question-background.png"}
+## QUESTION 3 {.question background-image="img/backgrounds/question.png"}
 
 `r print_answer(2, 3)`
 
-# QUESTION 4 {.question background-image="img/question-background.png"}
+# QUESTION 4 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(2, 4)`
 
-## QUESTION 4 {.question background-image="img/question-background.png"}
+## QUESTION 4 {.question background-image="img/backgrounds/question.png"}
 
 `r print_answer(2, 4)`
 
-# QUESTION 5 {.question background-image="img/question-background.png"}
+# QUESTION 5 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(2, 5)`
 
-## QUESTION 5 {.question background-image="img/question-background.png"}
+## QUESTION 5 {.question background-image="img/backgrounds/question.png"}
 
 `r print_answer(2, 5)`
 
-# QUESTION 6 {.question background-image="img/question-background.png"}
+# QUESTION 6 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(2, 6)`
 
-## QUESTION 6 {.question background-image="img/question-background.png"}
+## QUESTION 6 {.question background-image="img/backgrounds/question.png"}
 
 `r print_answer(2, 6)`
 
-# QUESTION 7 {.question background-image="img/question-background.png"}
+# QUESTION 7 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(2, 7)`
 
-## QUESTION 7 {.question background-image="img/question-background.png"}
+## QUESTION 7 {.question background-image="img/backgrounds/question.png"}
 
 `r print_answer(2, 7)`
 
-# QUESTION 8 {.question background-image="img/question-background.png"}
+# QUESTION 8 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(2, 8)`
 
-## QUESTION 8 {.question background-image="img/question-background.png"}
+## QUESTION 8 {.question background-image="img/backgrounds/question.png"}
 
 `r print_answer(2, 8)`
 
-# SCORES {.scores background-image="img/scores-background.png"}
+# SCORES {.scores background-image="img/backgrounds/scores.png"}
 
 ```{r scores round 2}
 scores %>% 
@@ -261,87 +261,87 @@ scores %>%
     set_bold(1:nrow(.), 2)
 ```
 
-# `r round_name(3)` {.round background-image="img/round-3-background.png"}
+# `r round_name(3)` {.round background-image="img/backgrounds/round-3.png"}
 
-# QUESTION 1 {.question background-image="img/question-background.png"}
+# QUESTION 1 {.question background-image="img/backgrounds/question.png"}
 `r print_question(3, 1)`
 
-# QUESTION 2 {.question background-image="img/question-background.png"}
+# QUESTION 2 {.question background-image="img/backgrounds/question.png"}
 `r print_question(3, 2)`
 
-# QUESTION 3 {.question background-image="img/question-background.png"}
+# QUESTION 3 {.question background-image="img/backgrounds/question.png"}
 `r print_question(3, 3)`
 
-# QUESTION 4 {.question background-image="img/question-background.png"}
+# QUESTION 4 {.question background-image="img/backgrounds/question.png"}
 `r print_question(3, 4)`
 
-# QUESTION 5 {.question background-image="img/question-background.png"}
+# QUESTION 5 {.question background-image="img/backgrounds/question.png"}
 `r print_question(3, 5)`
 
-# QUESTION 6 {.question background-image="img/question-background.png"}
+# QUESTION 6 {.question background-image="img/backgrounds/question.png"}
 `r print_question(3, 6)`
 
-# QUESTION 7 {.question background-image="img/question-background.png"}
+# QUESTION 7 {.question background-image="img/backgrounds/question.png"}
 `r print_question(3, 7)`
 
-# QUESTION 8 {.question background-image="img/question-background.png"}
+# QUESTION 8 {.question background-image="img/backgrounds/question.png"}
 `r print_question(3, 8)`
 
-# `r round_name(3)` - RECAP {.question .recap background-image="img/question-background.png"}
+# `r round_name(3)` - RECAP {.question .recap background-image="img/backgrounds/question.png"}
 `r recap_round(3)`
 
-# `r round_name(3)` {.round background-image="img/round-3-background.png"}
+# `r round_name(3)` {.round background-image="img/backgrounds/round-3.png"}
 ANSWERS
 
-# QUESTION 1 {.question background-image="img/question-background.png"}
+# QUESTION 1 {.question background-image="img/backgrounds/question.png"}
 `r print_question(3, 1)`
 
-## QUESTION 1 {.question background-image="img/question-background.png"}
+## QUESTION 1 {.question background-image="img/backgrounds/question.png"}
 `r print_answer(3, 1)`
 
-# QUESTION 2 {.question background-image="img/question-background.png"}
+# QUESTION 2 {.question background-image="img/backgrounds/question.png"}
 `r print_question(3, 2)`
 
-## QUESTION 2 {.question background-image="img/question-background.png"}
+## QUESTION 2 {.question background-image="img/backgrounds/question.png"}
 `r print_answer(3, 2)`
 
-# QUESTION 3 {.question background-image="img/question-background.png"}
+# QUESTION 3 {.question background-image="img/backgrounds/question.png"}
 `r print_question(3, 3)`
 
-## QUESTION 3 {.question background-image="img/question-background.png"}
+## QUESTION 3 {.question background-image="img/backgrounds/question.png"}
 `r print_answer(3, 3)`
 
-# QUESTION 4 {.question background-image="img/question-background.png"}
+# QUESTION 4 {.question background-image="img/backgrounds/question.png"}
 `r print_question(3, 4)`
 
-## QUESTION 4 {.question background-image="img/question-background.png"}
+## QUESTION 4 {.question background-image="img/backgrounds/question.png"}
 `r print_answer(3, 4)`
 
-# QUESTION 5 {.question background-image="img/question-background.png"}
+# QUESTION 5 {.question background-image="img/backgrounds/question.png"}
 `r print_question(3, 5)`
 
-## QUESTION 5 {.question background-image="img/question-background.png"}
+## QUESTION 5 {.question background-image="img/backgrounds/question.png"}
 `r print_answer(3, 5)`
 
-# QUESTION 6 {.question background-image="img/question-background.png"}
+# QUESTION 6 {.question background-image="img/backgrounds/question.png"}
 `r print_question(3, 6)`
 
-## QUESTION 6 {.question background-image="img/question-background.png"}
+## QUESTION 6 {.question background-image="img/backgrounds/question.png"}
 `r print_answer(3, 6)`
 
-# QUESTION 7 {.question background-image="img/question-background.png"}
+# QUESTION 7 {.question background-image="img/backgrounds/question.png"}
 `r print_question(3, 7)`
 
-## QUESTION 7 {.question background-image="img/question-background.png"}
+## QUESTION 7 {.question background-image="img/backgrounds/question.png"}
 `r print_answer(3, 7)`
 
-# QUESTION 8 {.question background-image="img/question-background.png"}
+# QUESTION 8 {.question background-image="img/backgrounds/question.png"}
 `r print_question(3, 8)`
 
-## QUESTION 8 {.question background-image="img/question-background.png"}
+## QUESTION 8 {.question background-image="img/backgrounds/question.png"}
 `r print_answer(3, 8)`
 
-# SCORES {.scores background-image="img/scores-background.png"}
+# SCORES {.scores background-image="img/backgrounds/scores.png"}
 
 ```{r scores round 3}
 scores %>% 
@@ -353,41 +353,41 @@ scores %>%
 
 ```
 
-# `r round_name(4)` {.round background-image="img/round-4-background.png"}
+# `r round_name(4)` {.round background-image="img/backgrounds/round-4.png"}
 
-# SONG #1 {.question background-image="img/question-background.png"}
+# SONG #1 {.question background-image="img/backgrounds/question.png"}
 
 `r music_question(1)`
 
-# SONG #2 {.question background-image="img/question-background.png"}
+# SONG #2 {.question background-image="img/backgrounds/question.png"}
 
 `r music_question(2)`
 
-# SONG #3 {.question background-image="img/question-background.png"}
+# SONG #3 {.question background-image="img/backgrounds/question.png"}
 
 `r music_question(3)`
 
-# SONG #4 {.question background-image="img/question-background.png"}
+# SONG #4 {.question background-image="img/backgrounds/question.png"}
 
 `r music_question(4)`
 
-# SONG #5 {.question background-image="img/question-background.png"}
+# SONG #5 {.question background-image="img/backgrounds/question.png"}
 
 `r music_question(5)`
 
-# SONG #6 {.question background-image="img/question-background.png"}
+# SONG #6 {.question background-image="img/backgrounds/question.png"}
 
 `r music_question(6)`
 
-# SONG #7 {.question background-image="img/question-background.png"}
+# SONG #7 {.question background-image="img/backgrounds/question.png"}
 
 `r music_question(7)`
 
-# SONG #8 {.question background-image="img/question-background.png"}
+# SONG #8 {.question background-image="img/backgrounds/question.png"}
 
 `r music_question(8)`
 
-# `r round_name(4)` - RECAP {.question .recap background-image="img/question-background.png"}
+# `r round_name(4)` - RECAP {.question .recap background-image="img/backgrounds/question.png"}
 
 +---------------------------------------------+---------------------------------------------+
 | SONG #1                                     | SONG #5                                     |
@@ -415,75 +415,75 @@ scores %>%
 | </audio>                                    | </audio>                                    |
 +---------------------------------------------+---------------------------------------------+
 
-# `r round_name(4)` {.round background-image="img/round-4-background.png"}
+# `r round_name(4)` {.round background-image="img/backgrounds/round-4.png"}
 
 ANSWERS
 
-# SONG #1 {.question background-image="img/question-background.png"}
+# SONG #1 {.question background-image="img/backgrounds/question.png"}
 
 `r music_question(1)`
 
-## SONG #1 {.question background-image="img/question-background.png"}
+## SONG #1 {.question background-image="img/backgrounds/question.png"}
 
 `r print_answer(4, 1)`
 
-# SONG #2 {.question background-image="img/question-background.png"}
+# SONG #2 {.question background-image="img/backgrounds/question.png"}
 
 `r music_question(2)`
 
-## SONG #2 {.question background-image="img/question-background.png"}
+## SONG #2 {.question background-image="img/backgrounds/question.png"}
 
 `r print_answer(4, 2)`
 
-# SONG #3 {.question background-image="img/question-background.png"}
+# SONG #3 {.question background-image="img/backgrounds/question.png"}
 
 `r music_question(3)`
 
-## SONG #3 {.question background-image="img/question-background.png"}
+## SONG #3 {.question background-image="img/backgrounds/question.png"}
 
 `r print_answer(4, 3)`
 
-# SONG #4 {.question background-image="img/question-background.png"}
+# SONG #4 {.question background-image="img/backgrounds/question.png"}
 
 `r music_question(4)`
 
-## SONG #4 {.question background-image="img/question-background.png"}
+## SONG #4 {.question background-image="img/backgrounds/question.png"}
 
 `r print_answer(4, 4)`
 
-# SONG #5 {.question background-image="img/question-background.png"}
+# SONG #5 {.question background-image="img/backgrounds/question.png"}
 
 `r music_question(5)`
 
-## SONG #5 {.question background-image="img/question-background.png"}
+## SONG #5 {.question background-image="img/backgrounds/question.png"}
 
 `r print_answer(4, 5)`
 
-# SONG #6 {.question background-image="img/question-background.png"}
+# SONG #6 {.question background-image="img/backgrounds/question.png"}
 
 `r music_question(6)`
 
-## SONG #6 {.question background-image="img/question-background.png"}
+## SONG #6 {.question background-image="img/backgrounds/question.png"}
 
 `r print_answer(4, 6)`
 
-# SONG #7 {.question background-image="img/question-background.png"}
+# SONG #7 {.question background-image="img/backgrounds/question.png"}
 
 `r music_question(7)`
 
-## SONG #7 {.question background-image="img/question-background.png"}
+## SONG #7 {.question background-image="img/backgrounds/question.png"}
 
 `r print_answer(4, 7)`
 
-# SONG #8 {.question background-image="img/question-background.png"}
+# SONG #8 {.question background-image="img/backgrounds/question.png"}
 
 `r music_question(8)`
 
-## SONG #8 {.question background-image="img/question-background.png"}
+## SONG #8 {.question background-image="img/backgrounds/question.png"}
 
 `r print_answer(4, 8)`
 
-# SCORES {.scores background-image="img/scores-background.png"}
+# SCORES {.scores background-image="img/backgrounds/scores.png"}
 
 ```{r scores round 4}
 scores %>% 
@@ -494,161 +494,161 @@ scores %>%
     set_bold(1:nrow(.), 2)
 ```
 
-# `r round_name(5)` {.round background-image="img/round-5-background.png"}
+# `r round_name(5)` {.round background-image="img/backgrounds/round-5.png"}
 
-# QUESTION 1 {.question background-image="img/question-background.png"}
+# QUESTION 1 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(5, 1)`
 
-# QUESTION 2 {.question background-image="img/question-background.png"}
+# QUESTION 2 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(5, 2)`
 
-# QUESTION 3 {.question background-image="img/question-background.png"}
+# QUESTION 3 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(5, 3)`
 
-# QUESTION 4 {.question background-image="img/question-background.png"}
+# QUESTION 4 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(5, 4)`
 
-# QUESTION 5 {.question background-image="img/question-background.png"}
+# QUESTION 5 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(5, 5)`
 
-# QUESTION 6 {.question background-image="img/question-background.png"}
+# QUESTION 6 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(5, 6)`
 
-# QUESTION 7 {.question background-image="img/question-background.png"}
+# QUESTION 7 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(5, 7)`
 
-# QUESTION 8 {.question background-image="img/question-background.png"}
+# QUESTION 8 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(5, 8)`
 
-# QUESTION 9 {.question background-image="img/question-background.png"}
+# QUESTION 9 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(5, 9)`
 
-# QUESTION 10 {.question background-image="img/question-background.png"}
+# QUESTION 10 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(5, 10)`
 
-# QUESTION 11 {.question background-image="img/question-background.png"}
+# QUESTION 11 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(5, 11)`
 
-# QUESTION 12 {.question background-image="img/question-background.png"}
+# QUESTION 12 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(5, 12)`
 
-# `r round_name(5)` - RECAP {.question .recap background-image="img/question-background.png"}
+# `r round_name(5)` - RECAP {.question .recap background-image="img/backgrounds/question.png"}
 
 `r recap_round(5)`
 
-# `r round_name(5)` {.round background-image="img/round-5-background.png"}
+# `r round_name(5)` {.round background-image="img/backgrounds/round-5.png"}
 
 ANSWERS
 
-# QUESTION 1 {.question background-image="img/question-background.png"}
+# QUESTION 1 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(5, 1)`
 
-## QUESTION 1 {.question background-image="img/question-background.png"}
+## QUESTION 1 {.question background-image="img/backgrounds/question.png"}
 
 `r print_answer(5, 1)`
 
-# QUESTION 2 {.question background-image="img/question-background.png"}
+# QUESTION 2 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(5, 2)`
 
-## QUESTION 2 {.question background-image="img/question-background.png"}
+## QUESTION 2 {.question background-image="img/backgrounds/question.png"}
 
 `r print_answer(5, 2)`
 
-# QUESTION 3 {.question background-image="img/question-background.png"}
+# QUESTION 3 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(5, 3)`
 
-## QUESTION 3 {.question background-image="img/question-background.png"}
+## QUESTION 3 {.question background-image="img/backgrounds/question.png"}
 
 `r print_answer(5, 3)`
 
-# QUESTION 4 {.question background-image="img/question-background.png"}
+# QUESTION 4 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(5, 4)`
 
-## QUESTION 4 {.question background-image="img/question-background.png"}
+## QUESTION 4 {.question background-image="img/backgrounds/question.png"}
 
 `r print_answer(5, 4)`
 
-# QUESTION 5 {.question background-image="img/question-background.png"}
+# QUESTION 5 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(5, 5)`
 
-## QUESTION 5 {.question background-image="img/question-background.png"}
+## QUESTION 5 {.question background-image="img/backgrounds/question.png"}
 
 `r print_answer(5, 5)`
 
-# QUESTION 6 {.question background-image="img/question-background.png"}
+# QUESTION 6 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(5, 6)`
 
-## QUESTION 6 {.question background-image="img/question-background.png"}
+## QUESTION 6 {.question background-image="img/backgrounds/question.png"}
 
 `r print_answer(5, 6)`
 
-# QUESTION 7 {.question background-image="img/question-background.png"}
+# QUESTION 7 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(5, 7)`
 
-## QUESTION 7 {.question background-image="img/question-background.png"}
+## QUESTION 7 {.question background-image="img/backgrounds/question.png"}
 
 `r print_answer(5, 7)`
 
-# QUESTION 8 {.question background-image="img/question-background.png"}
+# QUESTION 8 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(5, 8)`
 
-## QUESTION 8 {.question background-image="img/question-background.png"}
+## QUESTION 8 {.question background-image="img/backgrounds/question.png"}
 
 `r print_answer(5, 8)`
 
-# QUESTION 9 {.question background-image="img/question-background.png"}
+# QUESTION 9 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(5, 9)`
 
-## QUESTION 9 {.question background-image="img/question-background.png"}
+## QUESTION 9 {.question background-image="img/backgrounds/question.png"}
 
 `r print_answer(5, 9)`
 
-# QUESTION 10 {.question background-image="img/question-background.png"}
+# QUESTION 10 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(5, 10)`
 
-## QUESTION 10 {.question background-image="img/question-background.png"}
+## QUESTION 10 {.question background-image="img/backgrounds/question.png"}
 
 `r print_answer(5, 10)`
 
-# QUESTION 11 {.question background-image="img/question-background.png"}
+# QUESTION 11 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(5, 11)`
 
-## QUESTION 11 {.question background-image="img/question-background.png"}
+## QUESTION 11 {.question background-image="img/backgrounds/question.png"}
 
 `r print_answer(5, 11)`
 
-# QUESTION 12 {.question background-image="img/question-background.png"}
+# QUESTION 12 {.question background-image="img/backgrounds/question.png"}
 
 `r print_question(5, 12)`
 
-## QUESTION 12 {.question background-image="img/question-background.png"}
+## QUESTION 12 {.question background-image="img/backgrounds/question.png"}
 
 `r print_answer(5, 12)`
 
-# FINAL SCORES {.scores background-image="img/scores-background.png" data-transition="fade"}
+# FINAL SCORES {.scores background-image="img/backgrounds/scores.png" data-transition="fade"}
 
 . . .
 
