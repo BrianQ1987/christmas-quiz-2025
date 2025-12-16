@@ -23,14 +23,14 @@ round,num,question,options,answer,img1,img2
 3,6,'Which actor released an autobiography titled <em>Future Boy</em> this year?',,Michael J Fox,beattie.avif,nesbitt.jpg
 3,7,'Which singer refused to appear in court after being subpoenaed by <em>It Ends With Us</em> director Justin Baldoni''s legal team as part of his lawsuit against Blake Lively?',,Taylor Swift,mcnulty.avif,mcnulty.webp
 3,8,'How long did Katy Perry spend in space on her Blue Origin space flight in April of this year?',,11 minutes,moore.jpg,substance.jpeg
-4,1,,,<em>Mad World</em><br/>Michael Andrews and Gary Jules<br/>2003,question_1.mp3,mad-world.jpg
-4,2,,,<em>Always on My Mind</em><br/>Pet Shop Boys<br/>1987,question_2.mp3,always-on-my-mind.jpg
-4,3,,,<em>Sound of the Underground</em><br/>Girls Aloud<br/>2002,question_3.mp3,girls-aloud.jpg
-4,4,,,<em>Only You</em><br/>The Flying Pickets<br/>1983,question_4.mp3,only-you.jpg
-4,5,,,<em>Killing in the Name</em><br/>Rage Against the Machine<br/>2009,question_5.mp3,ratm.jpg
-4,6,,,<em>Lonely This Christmas</em><br/>Mud<br/>1974,question_6.mp3,mud.webp
-4,7,,,<em>Mr Blobby</em><br/>Mr Blobby<br/>1993,question_7.mp3,mr-blobby.jpg
-4,8,,,<em>Earth Song</em><br/>Michael Jackson<br/>1995,question_8.mp3,earth-song.jpg
+4,1,,,Kylie Minogue,question_1.mp3,kylie.png
+4,2,,,Robbie Williams,question_2.mp3,robbie.png
+4,3,,,Madonna,question_3.mp3,madonna.jpg
+4,4,,,Miss Piggy,question_4.mp3,miss-piggy.jpg
+4,5,,,Michael Bublé,question_5.mp3,buble.png
+4,6,,,Eartha Kitt,question_6.mp3,eartha-kitt.jpg
+4,7,,,Shania Twain and Sabrina Carpenter,question_7.mp3,nonsense.png
+4,8,,,Laufey,question_8.mp3,laufey.png
 5,1,'On Christmas Eve 1818, <strong>one day</strong> before Christmas, the first performance of which Christmas Carol took place in a church in Salzburg?',,Silent Night,Stnikola.jpg,Stnikola.jpg
 5,2,'<strong>Two days</strong> after Christmas Day, on the 27th December 1995 actor Timothée Chalamet arrived into this world. Which folk singer does the boy play in <em>A Complete Unknown</em>, released in UK cinemas next month?',,Bob Dylan,chalamet.jpg,chalamet-2.jpg
 5,3,'<em>Waiting for Godot</em> writer Samuel Beckett died <strong>three days</strong> before Christmas Day on 22nd December 1989. While living in France, which former WWF Champion did Beckett use to drive to school in his Citroën convertible?',a) André the Giant &nbsp;&nbsp;b) Hulk Hogan &nbsp;&nbsp;c) The Ultimate Warrior,a) André the Giant,beckett.jpg,andre.jpg
