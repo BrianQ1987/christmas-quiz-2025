@@ -528,22 +528,6 @@ scores %>%
 
 `r print_question(5, 8)`
 
-# QUESTION 9 {.question background-image="img/backgrounds/question.png"}
-
-`r print_question(5, 9)`
-
-# QUESTION 10 {.question background-image="img/backgrounds/question.png"}
-
-`r print_question(5, 10)`
-
-# QUESTION 11 {.question background-image="img/backgrounds/question.png"}
-
-`r print_question(5, 11)`
-
-# QUESTION 12 {.question background-image="img/backgrounds/question.png"}
-
-`r print_question(5, 12)`
-
 # `r round_name(5)` - RECAP {.question .recap background-image="img/backgrounds/question.png"}
 
 `r recap_round(5)`
@@ -615,38 +599,6 @@ ANSWERS
 ## QUESTION 8 {.question background-image="img/backgrounds/question.png"}
 
 `r print_answer(5, 8)`
-
-# QUESTION 9 {.question background-image="img/backgrounds/question.png"}
-
-`r print_question(5, 9)`
-
-## QUESTION 9 {.question background-image="img/backgrounds/question.png"}
-
-`r print_answer(5, 9)`
-
-# QUESTION 10 {.question background-image="img/backgrounds/question.png"}
-
-`r print_question(5, 10)`
-
-## QUESTION 10 {.question background-image="img/backgrounds/question.png"}
-
-`r print_answer(5, 10)`
-
-# QUESTION 11 {.question background-image="img/backgrounds/question.png"}
-
-`r print_question(5, 11)`
-
-## QUESTION 11 {.question background-image="img/backgrounds/question.png"}
-
-`r print_answer(5, 11)`
-
-# QUESTION 12 {.question background-image="img/backgrounds/question.png"}
-
-`r print_question(5, 12)`
-
-## QUESTION 12 {.question background-image="img/backgrounds/question.png"}
-
-`r print_answer(5, 12)`
 
 # FINAL SCORES {.scores background-image="img/backgrounds/scores.png" data-transition="fade"}
 
