@@ -1,0 +1,51 @@
+---
+format:
+  revealjs:
+    navigation: grid
+    transition: convex
+    controls: true
+    css: style.css
+    embed-resources: true
+---
+
+```{r setup}
+library(readxl)
+library(dplyr)
+library(huxtable)
+library(htmltools)
+
+source("functions.R")
+
+quiz <- read.csv("quiz.csv", quote = "\'")
+rounds <- read.csv("rounds.csv")
+```
+
+
+# `r round_name(4)` - RECAP {.question .recap background-image="img/backgrounds/question.png"}
+
++---------------------------------------------+---------------------------------------------+
+| SONG #1                                     | SONG #5                                     |
+|                                             |                                             |
+| <audio src="music/question_1.mp3" controls> | <audio src="music/question_5.mp3" controls> |
+|                                             |                                             |
+| </audio>                                    | </audio>                                    |
+|                                             |                                             |
+| SONG #2                                     | SONG #6                                     |
+|                                             |                                             |
+| <audio src="music/question_2.mp3" controls> | <audio src="music/question_6.mp3" controls> |
+|                                             |                                             |
+| </audio>                                    | </audio>                                    |
+|                                             |                                             |
+| SONG #3                                     | SONG #7                                     |
+|                                             |                                             |
+| <audio src="music/question_3.mp3" controls> | <audio src="music/question_7.mp3" controls> |
+|                                             |                                             |
+| </audio>                                    | </audio>                                    |
+|                                             |                                             |
+| SONG #4                                     | SONG #8                                     |
+|                                             |                                             |
+| <audio src="music/question_4.mp3" controls> | <audio src="music/question_8.mp3" controls> |
+|                                             |                                             |
+| </audio>                                    | </audio>                                    |
++---------------------------------------------+---------------------------------------------+
+

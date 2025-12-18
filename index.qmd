@@ -532,6 +532,8 @@ scores %>%
 
 `r recap_round(5)`
 
+<img class='quarto-figure r-stretch quarto-figure-center' src='img/sleigh-what-you-see.png'/>
+
 # `r round_name(5)` {.round background-image="img/backgrounds/round-5.png"}
 
 ANSWERS

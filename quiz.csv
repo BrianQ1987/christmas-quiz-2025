@@ -1,12 +1,12 @@
 round,num,question,options,answer,img1,img2
-1,1,'Shloer is a popular Christmas day drink, but in the mid-90s the company tried to launch an alcoholic red grape version of their drink under what name?',a) Hard Shloer<br/>b) Shloer Nuveau<br/>c) Twisted Shloer,b) Shloer Nuveau,mrs-doyle.jpg,A_Christmassy_Ted.webp
-1,2,'Denise Richards played a nuclear physicist in 1999''s The World is Not Enough with which festive name?',a) Dr Christmas Jones<br/>b) Dr Belle St Mary<br/>c) Dr Holly Ryder,a) Dr Christmas Jones,crockett.jpg,miami-vice.jpg
-1,3,'Christmas Island got its name when it was discovered on Christmas Day 1643 and is part of which country?',a) Australia<br/>b) Indonesia<br/>c) Papua New Guinea,a) Australia,Christmas-Tree.jpg,christmas-pickle.jpg
-1,4,A very young Kevin McKidd played Father Deegan in the <em>Father Ted</em> episode <em>A Christmassy Ted</em>. He is best known for playing Dr Owen Hunt on which TV medical drama?,'a) Holby City<br/>b) E.R.<br/>c) Grey''s Anatomy','c) Grey''s Anatomy',A_Christmassy_Ted.webp,topic.png
-1,5,'What is it customary to do in Norway on Christmas Eve night to protect your home from the arrival of witches?',a) Place a bucket of water by the chimney<br/>b) Hide all the broomsticks in the house<br/>c) Hang a drawing of a black cat on all the windows,b) Hide all the broomsticks in the house,santa-drink.png,yougov.png
-1,6,'What were the first artificial Christmas trees, which were used in Germany in the 1880s, made of?',a) Chestnut shells<br/>b) Shredded wrapping paper<br/>c) Goose feathers,c) Goose feathers,nigella.jpg,Coca-Cola-Ham.jpg
-1,7,'According to RottenTomatoes.com the highest rated Christmas movie of all time is 1940''s <em>The Shop Around the Corner</em> starring James Stewart and Margaret Sullavan. It received a 1990s remake with what title?','a) Sleepless in Seattle<br/>b) You''ve Got Mail<br/>c) While You Were Sleeping','b) You''ve Got Mail',dinner-miracle-34th.jpg,mcdermott.webp
-1,8,'Who is the only performer on Band Aid to sing their own name in the song?',a) Paul Young<br/>b) Boy George<br/>c) Sting,c) Sting,strata.jpeg,mulroney.jpg
+1,1,'Shloer is a popular Christmas day drink, but in the mid-90s the company tried to launch an alcoholic red grape version of their drink under what name?',a) Hard Shloer<br/>b) Shloer Nuveau<br/>c) Twisted Shloer,b) Shloer Nuveau,shloer.avif,shloer.avif
+1,2,'Denise Richards played a nuclear physicist in the 1999 James Bond film <em>The World is Not Enough</em> with which festive name?',a) Dr Christmas Jones<br/>b) Dr Belle St Mary<br/>c) Dr Holly Ryder,a) Dr Christmas Jones,christmas-jones.webp,christmas-jones.jpg
+1,3,'Christmas Island got its name when it was discovered on Christmas Day 1643 and is part of which country?',a) Australia<br/>b) Indonesia<br/>c) Papua New Guinea,a) Australia,christmas-island-map.png,christmas-island-answer.webp
+1,4,A very young Kevin McKidd played Father Deegan in the <em>Father Ted</em> episode <em>A Christmassy Ted</em>. He is best known for playing Dr Owen Hunt on which TV medical drama?,'a) Holby City<br/>b) E.R.<br/>c) Grey''s Anatomy','c) Grey''s Anatomy',father-deegan.jfif,greys.webp
+1,5,'What is it customary to do in Norway on Christmas Eve night to protect your home from the arrival of witches?',a) Place a bucket of water by the chimney<br/>b) Hide all the broomsticks in the house<br/>c) Hang a drawing of a black cat on all the windows,b) Hide all the broomsticks in the house,witch.jfif,brooms.png
+1,6,'What were the first artificial Christmas trees, which were used in Germany in the 1880s, made of?',a) Chestnut shells<br/>b) Shredded wrapping paper<br/>c) Goose feathers,c) Goose feathers,charliebrowntree.jpg,goose-feather.jpg
+1,7,'According to RottenTomatoes.com the highest rated Christmas movie of all time is 1940''s <em>The Shop Around the Corner</em> starring James Stewart and Margaret Sullavan. It received a 1990s remake with what title?','a) Sleepless in Seattle<br/>b) You''ve Got Mail<br/>c) While You Were Sleeping','b) You''ve Got Mail',shop-around-the-corner.jpg,youve-got-mail.webp
+1,8,'Who is the only performer on <em>Band Aid</em> to sing their own name in the song?',a) Paul Young<br/>b) Boy George<br/>c) Sting,c) Sting<br/><em>"The bitter sting of tears"</em>,band-aid.jpg,sting.jpg
 2,1,,,Home Alone 2: Lost in New York,picture_round/question_1.jpg,picture_round/answer_1.jpg
 2,2,,,It''s a Wonderful Life,picture_round/question_2.jpg,picture_round/answer_2.jpg
 2,3,,,Love Actually,picture_round/question_3.jpg,picture_round/answer_3.jpg
@@ -16,13 +16,13 @@ round,num,question,options,answer,img1,img2
 2,7,,,How The Grinch Stole Christmas,picture_round/question_7.jpg,picture_round/answer_7.jpg
 2,8,,,Miracle on 34th Street,picture_round/question_8.jpg,picture_round/answer_8.jpg
 3,1,'In July, two executives from the tech company Astronomer were revealed to be having an affair with each other after being pictured on the kiss-cam of which band''s concert?',,Coldplay,astronomer.png,coldplay.jpg
-3,2,'Following a sponsorship deal in May, what is the new name of Windsor Park stadium?',,Clearer Twist National Stadium at Windsor Park,raygun.jpg,raygun-2.webp
-3,3,'Rory McIlroy completed a career grand slam by winning which major tournament in April?',,The Masters,willy-wonka.jpg,oompa.webp
-3,4,'Which singer released the album <em>West End Girl</em> in October, her first album for seven years?',,Lily Allen,drake-kendrick.webp,kendrick.webp
-3,5,'Who won the first ever season of BBC''s Celebrity Traitors?',,Alan Carr,danielle-walsh.webp,vk.webp
-3,6,'Which actor released an autobiography titled <em>Future Boy</em> this year?',,Michael J Fox,beattie.avif,nesbitt.jpg
-3,7,'Which singer refused to appear in court after being subpoenaed by <em>It Ends With Us</em> director Justin Baldoni''s legal team as part of his lawsuit against Blake Lively?',,Taylor Swift,mcnulty.avif,mcnulty.webp
-3,8,'How long did Katy Perry spend in space on her Blue Origin space flight in April of this year?',,11 minutes,moore.jpg,substance.jpeg
+3,2,'Following a sponsorship deal in May, what is the new name of Windsor Park stadium?',,Clearer Twist National Stadium at Windsor Park,windsor-park.jpg,clearer-twist.png
+3,3,'Rory McIlroy completed a career grand slam by winning which major tournament in April?',,The Masters,rory.avif,masters.webp
+3,4,'Which singer released the album <em>West End Girl</em> in October, her first album for seven years?',,Lily Allen,west-end.jpg,west-end-girl.avif
+3,5,'Who won the first ever season of BBC''s <em>The Celebrity Traitors</em>?',,Alan Carr,celebrity-traitors.webp,alan-carr.jpg
+3,6,'The song <em>Golden</em> by Huntrix spent 10 weeks at number one due to the popularity of which Netflix animated movie?',,K-Pop Demon Hunters,golden.webp,kpop.jpg
+3,7,'Which singer refused to appear in court after being subpoenaed by <em>It Ends With Us</em> director Justin Baldoni''s legal team as part of his lawsuit against Blake Lively?',,Taylor Swift,lively.webp,taylor-swift.webp
+3,8,'How long did Katy Perry spend in space on her Blue Origin space flight in April of this year?',,11 minutes,blue-origin.webp,katy-perry.jpg
 4,1,,,Kylie Minogue,question_1.mp3,kylie.png
 4,2,,,Robbie Williams,question_2.mp3,robbie.png
 4,3,,,Madonna,question_3.mp3,madonna.jpg
@@ -31,11 +31,11 @@ round,num,question,options,answer,img1,img2
 4,6,,,Eartha Kitt,question_6.mp3,eartha-kitt.jpg
 4,7,,,Shania Twain and Sabrina Carpenter,question_7.mp3,nonsense.png
 4,8,,,Laufey,question_8.mp3,laufey.png
-5,1,'Born on <strong>Christmas Day, 1968</strong>. Danish model Helena Christensen was first rose to prominence after starring in which 1990 the music video for which song?',,<em>Wicked Game</em> by Chris Isaak,helena.jpg,wicked-game.jfif
-5,2,'The Godfather of Soul, James Brown, died on <strong>Christmas Day, 2006</strong>. Which actor played Brown in the 2014 biopic <em>Get on Up</em>?',,Chadwick Boseman,james-brown.webp,get-on-up.jpg
-5,3,'Singer, Alannah Myles was born on <strong>Christmas Day, 1958</strong>, is best known for her 1990 single <em>Black Velvet</em>.','A Black Velvet cocktail comprises what two drinks?',Guinness and Champagne,alannah.webp,black-velvet.jpg
-5,4,'Which crooner, born Dino Paul Crocetti, died on <strong>Chrstimas Day, 1995</strong>?',,Dean Martin,microphone.jpeg,dean-martin.avif
-5,5,'Which footballer, born on <strong>Christmas Day, 1957</strong> released the album <em>Here''s to Christmas</em> in 2019?',,Chris Kamara,ghost.jpg,kamara.avif
-5,6,'What was the name of the first woman to have her own daily show on BBC Radio 1, who died on <strong>Christmas Day, 2021</strong>?',,Janice Long,radio1.png,janice-long.webp
-5,7,'Which entertainer who died on <strong>Christmas Day, 1977</strong> has a statue on Belfast''s Joy Street, where he lived between 1907 and 1908?',,Charlie Chaplin,joy-street.jpg,chaplin.webp
-5,8,Sleigh what you see:,'After three days on the run, this Romanian president was tried and then executed by firing squad on <strong>Christmas Day, 1989</strong>.',Nicolae Ceaușescu,sleigh-what-you-see.png,Nicolae_Ceaușescu.jpg
+5,1,'Born on <strong>Christmas Day 1968</strong>. Danish model Helena Christensen first rose to prominence after starring in the 1990 music video for which song?',,<em>Wicked Game</em> by Chris Isaak,helena.jpg,wicked-game.jfif
+5,2,'The Godfather of Soul, James Brown, died on <strong>Christmas Day 2006</strong>. Which actor played Brown in the 2014 biopic <em>Get on Up</em>?',,Chadwick Boseman,james-brown.webp,get-on-up.jpg
+5,3,'Singer, Alannah Myles was born on <strong>Christmas Day 1958</strong>, is best known for her 1990 single <em>Black Velvet</em>.','A Black Velvet cocktail comprises what two drinks?',Guinness and Champagne,alannah.webp,black-velvet.jpg
+5,4,'Which crooner, born Dino Paul Crocetti, died on <strong>Christmas Day 1995</strong>?',,Dean Martin,microphone.jpeg,dean-martin.avif
+5,5,'Which footballer, born on <strong>Christmas Day 1957</strong> released the album <em>Here''s to Christmas</em> in 2019?',,Chris Kamara,ghost.jpg,kamara.avif
+5,6,'What was the name of the first woman to have her own daily show on BBC Radio 1, who died on <strong>Christmas Day 2021</strong>?',,Janice Long,radio1.png,janice-long.webp
+5,7,'Which entertainer who died on <strong>Christmas Day 1977</strong> has a statue on Belfast''s Joy Street, where he lived between 1907 and 1908?',,Charlie Chaplin,joy-street.jpg,chaplin.webp
+5,8,Sleigh what you see:,'Hint: After three days on the run, this Romanian president was tried and then executed by firing squad on <strong>Christmas Day 1989</strong>.',Nicolae Ceaușescu,sleigh-what-you-see.png,Nicolae_Ceaușescu.jpg

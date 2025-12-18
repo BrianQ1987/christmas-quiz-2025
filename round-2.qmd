@@ -1,0 +1,31 @@
+---
+format:
+  revealjs:
+    navigation: grid
+    transition: convex
+    controls: true
+    css: style.css
+    embed-resources: true
+---
+
+```{r setup}
+library(readxl)
+library(dplyr)
+library(huxtable)
+library(htmltools)
+
+source("functions.R")
+
+quiz <- read.csv("quiz.csv", quote = "\'")
+rounds <- read.csv("rounds.csv")
+```
+
+
+# `r round_name(2)` - RECAP {.question background-image="img/backgrounds/question.png"}
+
++---------------------------------------+---------------------------------------+---------------------------------------+---------------------------------------+
+| ![](img/picture_round/question_1.jpg) | ![](img/picture_round/question_2.jpg) | ![](img/picture_round/question_3.jpg) | ![](img/picture_round/question_4.jpg) |
++---------------------------------------+---------------------------------------+---------------------------------------+---------------------------------------+
+| ![](img/picture_round/question_5.jpg) | ![](img/picture_round/question_6.jpg) | ![](img/picture_round/question_7.jpg) | ![](img/picture_round/question_8.jpg) |
++---------------------------------------+---------------------------------------+---------------------------------------+---------------------------------------+
+
